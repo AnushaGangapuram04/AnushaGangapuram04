@@ -32,18 +32,26 @@ I am a passionate **Full Stack Software Engineer** with a strong foundation in d
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-**Other Technologies**  
+**Other Technologies & Tools**  
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://java.com)  
-**AI Tools** • Git • GitHub • VS Code
+**AI Tools:** Claude • Cursor • ChatGPT  
+**No-Code Tools** • Git • GitHub • VS Code
 
 ---
 
 ### 🚀 Featured Projects
 
 - **[React Projects Collection](https://github.com/AnushaGangapuram04/React-projects)**  
-  A collection of interactive web applications built with React.js, including Counter, Todo List, Tic-Tac-Toe, and more. These projects strengthened my skills in component architecture, state management, and responsive design.
+  Hands-on practical beginner projects built with React.js to strengthen core frontend development skills.  
+  This repository includes interactive applications such as:
+  - **Counter App** – Mastering state management and event handling
+  - **Todo List** – Working with CRUD operations, local storage, and dynamic UI updates
+  - **Tic-Tac-Toe Game** – Implementing game logic, conditional rendering, and user interaction
+  - And more mini projects...  
 
-*(More full-stack and AI-integrated projects coming soon...)*
+  These real-world style projects helped me gain strong practical experience in **component-based architecture**, **React hooks**, **state management**, and building **responsive & interactive user interfaces**.
+
+*(More full-stack MERN and AI-integrated projects are currently in progress...)*
 
 ---
 
