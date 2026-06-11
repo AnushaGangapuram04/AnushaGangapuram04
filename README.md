@@ -2,7 +2,6 @@
 
 **Full Stack Software Engineer** | MERN Stack Developer | Passionate about Technology, Innovation & AI
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AnushaGangapuram04&color=00ff88)](https://komarev.com/ghpvc/?username=AnushaGangapuram04)
 
 ---
 ### 👩‍💻 About Me
