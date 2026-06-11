@@ -8,10 +8,10 @@
 
 I am a passionate **Full Stack Software Engineer** with a strong foundation in developing end-to-end web applications. I thrive on turning innovative ideas into functional, scalable, and user-friendly digital solutions.
 
-- 🔭 **Full Stack Developer** specializing in building modern, scalable, and high-performance web applications using the latest technologies
-- 🌱 Currently deepening my expertise in the **MERN Stack** (MongoDB, Express, React, Node.js) while actively exploring **AI-powered tools** and intelligent applications
-- 💡 Driven by a strong passion for **Technology, Innovation, and Artificial Intelligence** — always eager to learn and implement cutting-edge solutions
-- 🎓 **Master of Computer Applications (MCA)** — Affiliated to **JNTUH**
+-  **Full Stack Developer** specializing in building modern, scalable, and high-performance web applications using the latest technologies
+-  Currently deepening my expertise in the **MERN Stack** (MongoDB, Express, React, Node.js) while actively exploring **AI-powered tools** and intelligent applications
+-  Driven by a strong passion for **Technology, Innovation, and Artificial Intelligence** — always eager to learn and implement cutting-edge solutions
+-  **Master of Computer Applications (MCA)** — Affiliated to **JNTUH**
 - 📍 Based in **Hyderabad, India**
 
 ---
